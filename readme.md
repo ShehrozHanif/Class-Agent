@@ -1,3 +1,7 @@
+[Google Colab](https://github.com/ShehrozHanif/Class-Agent/blob/main/readme.md "Agent Class Practical Implementation")
+
+<br>
+
 # 🔷 1. Why is Agent written as Agent[TContext]?
 ## 🔍 What is TContext?
 In Python typing, TContext is a type variable — a placeholder for whatever context you want to pass to your agent and tools.
