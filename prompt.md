@@ -1,5 +1,8 @@
 # Second Parameter Of AGENT CLASS
 
+## [Google Colab](https://github.com/ShehrozHanif/Class-Agent/blob/main/readme.md "Agent Class Practical Implementation")
+
+
 ##  prompt: Prompt | DynamicPromptFunction | None = None
 
         prompt: Prompt | DynamicPromptFunction | None = None
